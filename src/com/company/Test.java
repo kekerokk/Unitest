@@ -18,6 +18,6 @@ public class Test {
         B.set(obj,4);
         C.set(obj,6);
         methodplus.invoke(obj);
-        methodminus.invoke(obj);
+        methodminus.invoke(obj); //
     }
 }
